@@ -35,7 +35,7 @@ body {
 
 @media (max-width: 720px) {
 
-    #hero {
+    #Page {
         padding: 2rem;
     }
     .nav-flex .nav-btn {
@@ -75,7 +75,7 @@ body {
     width: 90%;
 }
 
-.hero-btn {
+.Page-btn {
     padding: 1.2rem 4rem;
     margin: 1rem auto;
     background: hsl(322, 100%, 66%);
@@ -86,11 +86,11 @@ body {
     font-weight: 700;
 }
 
-.hero-btn:hover {
+.Page-btn:hover {
     background: hsla(322, 100%, 66%, 0.644);
 }
 
-.hero-btn:active {
+.Page-btn:active {
     background: hsla(322, 100%, 66%, 0.644);
 }
 
